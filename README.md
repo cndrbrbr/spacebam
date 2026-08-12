@@ -4,6 +4,8 @@ A vector-style Asteroids clone built in Godot 4.7, with no external art or audio
 
 Download a prebuilt Windows binary from the [Releases](https://github.com/cndrbrbr/spacebam/releases) page, or open the project in Godot 4.7+ and run it.
 
+![AstiBam](astibam.png)
+
 ## Controls
 
 | Action  | Keys              |
